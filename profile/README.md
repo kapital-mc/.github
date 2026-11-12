@@ -1,4 +1,6 @@
-# Kapitel Kapital
+<img src="https://raw.githubusercontent.com/kapital-mc/.github/main/profile/banner.webp" alt="Luxemburg" width="100%">
+
+# Kapital
 
 Minecraft modpacks, one per chapter.
 
@@ -20,4 +22,4 @@ Minecraft modpacks, one per chapter.
 ## Links
 
 - [Kapital Launcher download](https://kapital-launcher.pages.dev/)
-- [Kapitel Kapital website](https://kapitel-kapital.pages.dev/)
+- [Kapital website](https://kapitel-kapital.pages.dev/)
