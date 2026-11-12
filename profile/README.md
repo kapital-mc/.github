@@ -15,9 +15,7 @@ Minecraft modpacks, one per chapter.
 | Repository | Contents |
 |---|---|
 | [Kapital-Launcher](https://github.com/kapital-mc/Kapital-Launcher) | Desktop app for Windows and macOS. Installs and starts the chapters through Prism Launcher. |
-| kapital-packs (private) | packwiz sources of the chapter packs |
 | kapitel-kapital-wiki (private) | Source of the website and the lore wiki |
-| frangfurd-mod (private) | NeoForge mods for Frangfurd: Menu, Roles, Tempo, Fixed, Essentials |
 
 ## Links
 
