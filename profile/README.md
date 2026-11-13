@@ -15,7 +15,6 @@ Minecraft modpacks, one per chapter.
 | Repository | Contents |
 |---|---|
 | [Kapital-Launcher](https://github.com/kapital-mc/Kapital-Launcher) | Desktop app for Windows and macOS. Installs and starts the chapters through Prism Launcher. |
-| kapitel-kapital-wiki (private) | Source of the website and the lore wiki |
 
 ## Links
 
